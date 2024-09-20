@@ -1,0 +1,1 @@
+# kubernetes-installation-on-ubunut-2204
